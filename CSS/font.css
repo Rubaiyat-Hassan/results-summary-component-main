@@ -1,0 +1,18 @@
+@import url(../assets/fonts/HankenGrotesk-VariableFont_wght.ttf);
+
+/* 500, 700, 800 */
+.HankenGrotesk-500 {
+  font-family: "Hanken Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+}
+.HankenGrotesk-700 {
+  font-family: "Hanken Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+.HankenGrotesk-750 {
+  font-family: "Hanken Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 750;
+}
