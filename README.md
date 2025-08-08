@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+- Desktop
+![](./assets/images/Result-summary.png)
 
 ### Links
 
